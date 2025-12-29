@@ -1,0 +1,16 @@
+id,name,dept,salary,age,city
+1,Raj,IT,45000,28,Pune
+2,Amit,HR,32000,25,Mumbai
+3,Neha,Finance,55000,30,Delhi
+4,Rohan,IT,60000,32,Bangalore
+5,Priya,HR,38000,27,Pune
+6,Ankit,Sales,42000,29,Indore
+7,Sneha,Finance,50000,31,Mumbai
+8,Vikas,IT,70000,35,Hyderabad
+9,Pooja,Sales,36000,24,Nagpur
+10,Manoj,HR,48000,33,Delhi
+11,Kiran,Finance,62000,34,Bangalore
+12,Aarti,IT,53000,28,Pune
+13,Rahul,Sales,40000,26,Mumbai
+14,Nisha,HR,35000,23,Indore
+15,Deepak,IT,65000,36,Hyderabad
